@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "velimirT.github.io/assignment15/precache-manifest.d8e28c9d10f419e63c171e27a0be57a8.js"
+  "/assignment15/precache-manifest.56f24b016d5e85da1d312d304857de6b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("velimirT.github.io/assignment15/index.html", {
+workbox.routing.registerNavigationRoute("/assignment15/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

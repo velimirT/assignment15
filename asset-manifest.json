@@ -1,14 +1,14 @@
 {
-  "main.css": "velimirT.github.io/assignment15/static/css/main.788aac0d.chunk.css",
-  "main.js": "velimirT.github.io/assignment15/static/js/main.8ce61499.chunk.js",
-  "main.js.map": "velimirT.github.io/assignment15/static/js/main.8ce61499.chunk.js.map",
-  "static/js/1.740cc6a0.chunk.js": "velimirT.github.io/assignment15/static/js/1.740cc6a0.chunk.js",
-  "static/js/1.740cc6a0.chunk.js.map": "velimirT.github.io/assignment15/static/js/1.740cc6a0.chunk.js.map",
-  "runtime~main.js": "velimirT.github.io/assignment15/static/js/runtime~main.546531d2.js",
-  "runtime~main.js.map": "velimirT.github.io/assignment15/static/js/runtime~main.546531d2.js.map",
-  "static/media/logo.svg": "velimirT.github.io/assignment15/static/media/logo.5d5d9eef.svg",
-  "static/css/main.788aac0d.chunk.css.map": "velimirT.github.io/assignment15/static/css/main.788aac0d.chunk.css.map",
-  "index.html": "velimirT.github.io/assignment15/index.html",
-  "precache-manifest.d8e28c9d10f419e63c171e27a0be57a8.js": "velimirT.github.io/assignment15/precache-manifest.d8e28c9d10f419e63c171e27a0be57a8.js",
-  "service-worker.js": "velimirT.github.io/assignment15/service-worker.js"
+  "main.css": "/assignment15/static/css/main.788aac0d.chunk.css",
+  "main.js": "/assignment15/static/js/main.ae47788c.chunk.js",
+  "main.js.map": "/assignment15/static/js/main.ae47788c.chunk.js.map",
+  "static/js/1.740cc6a0.chunk.js": "/assignment15/static/js/1.740cc6a0.chunk.js",
+  "static/js/1.740cc6a0.chunk.js.map": "/assignment15/static/js/1.740cc6a0.chunk.js.map",
+  "runtime~main.js": "/assignment15/static/js/runtime~main.7b430720.js",
+  "runtime~main.js.map": "/assignment15/static/js/runtime~main.7b430720.js.map",
+  "static/media/logo.svg": "/assignment15/static/media/logo.5d5d9eef.svg",
+  "static/css/main.788aac0d.chunk.css.map": "/assignment15/static/css/main.788aac0d.chunk.css.map",
+  "index.html": "/assignment15/index.html",
+  "precache-manifest.56f24b016d5e85da1d312d304857de6b.js": "/assignment15/precache-manifest.56f24b016d5e85da1d312d304857de6b.js",
+  "service-worker.js": "/assignment15/service-worker.js"
 }
