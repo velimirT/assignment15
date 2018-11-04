@@ -1,14 +1,14 @@
 {
-  "main.css": "/assignment15/static/css/main.788aac0d.chunk.css",
-  "main.js": "/assignment15/static/js/main.ae47788c.chunk.js",
-  "main.js.map": "/assignment15/static/js/main.ae47788c.chunk.js.map",
-  "static/js/1.740cc6a0.chunk.js": "/assignment15/static/js/1.740cc6a0.chunk.js",
-  "static/js/1.740cc6a0.chunk.js.map": "/assignment15/static/js/1.740cc6a0.chunk.js.map",
+  "main.css": "/assignment15/static/css/main.9e7488d1.chunk.css",
+  "main.js": "/assignment15/static/js/main.8eac1fea.chunk.js",
+  "main.js.map": "/assignment15/static/js/main.8eac1fea.chunk.js.map",
+  "static/js/1.e3431702.chunk.js": "/assignment15/static/js/1.e3431702.chunk.js",
+  "static/js/1.e3431702.chunk.js.map": "/assignment15/static/js/1.e3431702.chunk.js.map",
   "runtime~main.js": "/assignment15/static/js/runtime~main.7b430720.js",
   "runtime~main.js.map": "/assignment15/static/js/runtime~main.7b430720.js.map",
   "static/media/logo.svg": "/assignment15/static/media/logo.5d5d9eef.svg",
-  "static/css/main.788aac0d.chunk.css.map": "/assignment15/static/css/main.788aac0d.chunk.css.map",
+  "static/css/main.9e7488d1.chunk.css.map": "/assignment15/static/css/main.9e7488d1.chunk.css.map",
   "index.html": "/assignment15/index.html",
-  "precache-manifest.56f24b016d5e85da1d312d304857de6b.js": "/assignment15/precache-manifest.56f24b016d5e85da1d312d304857de6b.js",
+  "precache-manifest.b58f0385561c3108ab75ba187f962eb7.js": "/assignment15/precache-manifest.b58f0385561c3108ab75ba187f962eb7.js",
   "service-worker.js": "/assignment15/service-worker.js"
 }
